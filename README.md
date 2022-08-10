@@ -1,4 +1,4 @@
-<h1 align="center">Hi, I'm Amber (she/her)!</h1>
+<h1 align="center">Hi, I'm Amber!</h1>
 
 ### About Me
 I'm a Front-End Software Engineer with a previous career in Customer Service Management. Throughout my 10 year career in the natural food & beverage industry, I discovered my passion for serving others. And along the way, I picked up an invaluable skill set focused on communication, collaboration, and adaptability. I've pivoted my career to front-end software engineering where my focus is building dynamic, responsive, and inclusive applications using test-driven and empathy-driven development. As a team member, I'm an active listener and prioritize the collective to contribute to an awesome user experience.
