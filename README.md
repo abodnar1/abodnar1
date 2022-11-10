@@ -1,4 +1,4 @@
-<h1 align="center">Hi, I'm Amber!</h1>
+<h1 align="center">Hi, I'm Amber (she/her)!</h1>
 
 ### About Me
 I'm a Front-End Software Engineer with a previous career in Customer Service Management. Throughout my 10 year career in the natural food & beverage industry, I discovered my passion for serving others. And along the way, I picked up an invaluable skill set focused on communication, collaboration, and adaptability. I've pivoted my career to front-end software engineering where my focus is on building dynamic, functional, and inclusive software using empathy-driven and test-driven development. As a team member, I'm an active listener and prioritize the collective to contribute to an awesome user experience.
@@ -19,7 +19,6 @@ In my free time, you can find me recharging my soul through rollerblading, live 
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?logo=javascript&logoColor=%23F7DF1E&style=for-the-badge)
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white")
 ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
-![Router](https://img.shields.io/badge/ReactRouter-CA4245?style=for-the-badge&logo=reactrouter&logoColor=white)
 ![GraphQL](https://img.shields.io/badge/Apollo%20GraphQL-311C87?&style=for-the-badge&logo=Apollo%20GraphQL&logoColor=white)
 ![HTML](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
@@ -36,7 +35,6 @@ In my free time, you can find me recharging my soul through rollerblading, live 
 ![Heroku](https://img.shields.io/badge/Heroku-430098?style=for-the-badge&logo=heroku&logoColor=white)
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
 ![CircleCI](https://img.shields.io/badge/circleci-343434?style=for-the-badge&logo=circleci&logoColor=white)
-![Slack](https://img.shields.io/badge/Slack-4A154B.svg?&style=for-the-badge&logo=slack&logoColor=white")
 ![OOP](https://img.shields.io/badge/OOP%20-EDD016.svg?&style=for-the-badge&logo=OOP&logoColor=black)
   
 ## UX/UI
