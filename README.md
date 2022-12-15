@@ -1,15 +1,16 @@
 <h1 align="center">Hi, I'm Amber (she/her)!</h1>
 
 ### About Me
-I'm a Front-End Software Engineer with a previous career in Customer Service Management. Throughout my 10 year career in the natural food & beverage industry, I discovered my passion for serving others. And along the way, I picked up an invaluable skill set focused on communication, collaboration, and adaptability. I've pivoted my career to front-end software engineering where my focus is on building dynamic, functional, and inclusive software using empathy-driven and test-driven development. As a team member, I'm an active listener and prioritize the collective to contribute to an awesome user experience.
+I am a Front-End Software Engineer looking to connect with cutting-edge companies that share my passion for creating widely accessible applications, encourage personal and professional growth, and promote diversity and equality in the workplace. 
 
-I'm looking to connect with cutting-edge companies that share my passion for creating accessible applications and promote diversity and equality in the workplace.
+Previously, I spent 10 years in the natural food & beverage industry where I discovered my passion for fostering lasting relationships and working cross-functionally. I've pivoted my career to software development where my focus is building dynamic, functional, and inclusive applications using empathy-driven and test-driven development. As a team member, I'm an active listener, effective communicator, and highly adaptable.
 
-In my free time, you can find me recharging my soul through rollerblading, live music, dancing, and sunshine.
+In my free time, I enjoy traveling, meeting new people, and exploring design. You will often find me recharging my soul on my rollerblades or dancing to live music in the sunshine.
+
+If you're interested in chatting, send me a message to connect!
 
 #### Connect with Me!
 <p>
-  <a href="https://github.com/abodnar1" target="_blank"><img src=https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white alt=github style="margin-bottom: 5px;" />
   <a href="https://www.linkedin.com/in/amberbodnar/" target="_blank"><img alt="linkedin" src="https://img.shields.io/badge/-LinkedIn-black.svg?style=for-the-badge&logo=linkedin&colorB=1C5D99"/></a>
   <a href="mailto:amber.bodnar@gmail.com"><img alt="email" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
 </p>
