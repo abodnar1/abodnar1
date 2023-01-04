@@ -9,7 +9,7 @@ In my free time, I enjoy traveling, meeting new people, and exploring design. Yo
 
 If you're interested in chatting, send me a message to connect!
 
-#### Connect with Me!
+#### Connect with Me
 <p>
   <a href="https://www.linkedin.com/in/amberbodnar/" target="_blank"><img alt="linkedin" src="https://img.shields.io/badge/-LinkedIn-black.svg?style=for-the-badge&logo=linkedin&colorB=1C5D99"/></a>
   <a href="mailto:amber.bodnar@gmail.com"><img alt="email" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
