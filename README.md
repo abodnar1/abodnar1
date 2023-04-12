@@ -45,7 +45,7 @@ If you're interested in chatting, send me a message to connect!
 ![Lighthouse](https://img.shields.io/badge/Lighthouse-F44B21?style=for-the-badge&logo=Lighthouse&logoColor=white)
 
 
-![stats2 amber](https://github-readme-stats.vercel.app/api?username=abodnar1&show_icons=true&theme=vue-dark)
-<br/>
+<!-- ![stats2 amber](https://github-readme-stats.vercel.app/api?username=abodnar1&show_icons=true&theme=vue-dark)
+<br/> -->
 ![stats amber](https://github-readme-stats.vercel.app/api/top-langs?username=abodnar1&show_icons=true&locale=en&layout=compact&theme=vue-dark)
 
