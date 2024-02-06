@@ -1,11 +1,11 @@
 <h1 align="center">Hi, I'm Amber (she/her)!</h1>
 
 ### About Me
-I am a Front-End Software Engineer looking to connect with cutting-edge companies that share my passion for creating widely accessible applications, encourage personal and professional growth, and promote diversity and equality in the workplace. 
+I'm a frontend software engineer looking to connect with cutting-edge companies that share my passion for personal and professional growth while promoting diversity and equality in the workplace.
 
-Previously, I spent 10 years in the natural food & beverage industry where I discovered my passion for fostering lasting relationships and working cross-functionally. I've pivoted my career to software development where my focus is building dynamic, functional, and inclusive applications using empathy-driven and test-driven development. As a team member, I'm an active listener, effective communicator, and highly adaptable.
+Having spent a decade in the natural food industry, I uncovered my passion for fostering lasting relationships and thriving in cross-functional collaborations. As a developer, my focus is on building dynamic, functional, and responsive applications using empathy-driven and test-driven development. As a team member, I am highly adaptable and an effective communicator.
 
-In my free time, I enjoy traveling, meeting new people, and exploring design. You will often find me recharging my soul on my rollerblades or dancing to live music in the sunshine.
+In my free time, I enjoy traveling, meeting new people, and exploring design. You will often find me on my rollerblades or dancing to live music.
 
 If you're interested in chatting, send me a message to connect!
 
