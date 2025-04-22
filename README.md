@@ -1,13 +1,13 @@
 <h1 align="center">Hi, I'm Amber (she/her)!</h1>
 
 ### About Me
-I'm a frontend software engineer looking to connect with cutting-edge companies that share my passion for personal and professional growth while promoting diversity and equality in the workplace.
+I’m currently a Web Developer at SCAD, where I’ve spent the last two years building and maintaining dynamic web and mobile experiences using frontend technologies like JavaScript, HTML, and CSS, along with PHP templating on the backend within a Drupal CMS.
 
-Having spent a decade in the natural food industry, I uncovered my passion for fostering lasting relationships and thriving in cross-functional collaborations. As a developer, my focus is on building dynamic, functional, and responsive applications using empathy-driven and test-driven development. As a team member, I am highly adaptable and an effective communicator.
+I’m passionate about creating responsive, accessible websites and thrive in environments where design and development intersect. Known for my curious approach to problem-solving, I enjoy bridging the gap between tech and design and bring a collaborative, adaptable mindset to every team I join.
 
-In my free time, I enjoy traveling, meeting new people, and exploring design. You will often find me on my rollerblades or dancing to live music.
+My journey into tech followed a decade in the natural food industry, where I developed a love for relationship-building and cross-functional teamwork—skills that continue to shape how I work today.
 
-If you're interested in chatting, send me a message to connect!
+Outside of work, you’ll find me outdoors, staying active and soaking up the sunshine.
 
 #### Connect with Me
 <p>
