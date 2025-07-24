@@ -1,13 +1,11 @@
-<h1 align="center">Hi, I'm Amber (she/her)!</h1>
+<h1 align="center">Hi, I'm Amber!</h1>
 
 ### About Me
-I’m currently a Web Developer at SCAD, where I’ve spent the last two years building and maintaining dynamic web and mobile experiences using frontend technologies like JavaScript, HTML, and CSS, along with PHP templating on the backend within a Drupal CMS.
+I’m currently a Web Developer at SCAD, where I’ve spent the last two years building and maintaining dynamic, responsive web and mobile experiences using frontend tech like JavaScript, HTML, and CSS, along with backend PHP templating within a Drupal CMS.
 
-I’m passionate about creating responsive, accessible websites and thrive in environments where design and development intersect. Known for my curious approach to problem-solving, I enjoy bridging the gap between tech and design and bring a collaborative, adaptable mindset to every team I join.
+I thrive in environments where design and development intersect and bring a collaborative, adaptable mindset to every team I join. My journey into tech followed a decade-long career in the natural food industry where I developed a love for relationship building and cross-functional teamwork — skills that continue to shape how I work today.
 
-My journey into tech followed a decade in the natural food industry, where I developed a love for relationship-building and cross-functional teamwork—skills that continue to shape how I work today.
-
-Outside of work, you’ll find me outdoors, staying active and soaking up the sunshine.
+Outside of work, you can catch me playing outdoors, spending time with my community, or pool sharkin’ around town.
 
 #### Connect with Me
 <p>
