@@ -14,7 +14,7 @@ Outside of work, you can catch me playing outdoors, spending time with my commun
 </p>
 
 
-## Languages & Frameworks:
+<!-- ## Languages & Frameworks:
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?logo=javascript&logoColor=%23F7DF1E&style=for-the-badge)
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white")
 ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
@@ -41,7 +41,7 @@ Outside of work, you can catch me playing outdoors, spending time with my commun
 ![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
 ![Miro](https://img.shields.io/badge/Miro-F7C922?style=for-the-badge&logo=Miro&logoColor=050036)
 ![Lighthouse](https://img.shields.io/badge/Lighthouse-F44B21?style=for-the-badge&logo=Lighthouse&logoColor=white)
-
+-->
 
 <!-- ![stats2 amber](https://github-readme-stats.vercel.app/api?username=abodnar1&show_icons=true&theme=vue-dark)
 <br/> -->
