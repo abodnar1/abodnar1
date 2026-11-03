@@ -44,6 +44,5 @@ Outside of work, you can catch me playing outdoors, spending time with my commun
 -->
 
 <!-- ![stats2 amber](https://github-readme-stats.vercel.app/api?username=abodnar1&show_icons=true&theme=vue-dark)
-<br/> -->
-![stats amber](https://github-readme-stats.vercel.app/api/top-langs?username=abodnar1&show_icons=true&locale=en&layout=compact&theme=vue-dark)
-
+<br/> !-->
+<!--[stats amber](https://github-readme-stats.vercel.app/api/top-langs?username=abodnar1&show_icons=true&locale=en&layout=compact&theme=vue-dark) !-->
