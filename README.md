@@ -1,7 +1,7 @@
 <h1 align="center">Hi, I'm Amber!</h1>
 
 ### About Me
-I’m currently a Web Developer at SCAD, where I’ve spent the last two years building and maintaining dynamic, responsive web and mobile experiences using frontend tech like JavaScript, HTML, and CSS, along with backend PHP templating within a Drupal CMS.
+I’m currently a Web Developer at SCAD, where I’ve spent the last 4 years building and maintaining dynamic, responsive web and mobile experiences using frontend tech like JavaScript, HTML, and CSS, along with backend PHP templating within a Drupal CMS.
 
 I thrive in environments where design and development intersect and bring a collaborative, adaptable mindset to every team I join. My journey into tech followed a decade-long career in the natural food industry where I developed a love for relationship building and cross-functional teamwork — skills that continue to shape how I work today.
 
